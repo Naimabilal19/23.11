@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CriticalSectionDlg.cpp
+\\Mac\Home\Downloads\Критические секции\CriticalSection\CriticalSection\CriticalSectionDlg.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CriticalSection.vcxproj -> \\Mac\Home\Downloads\Критические секции\CriticalSection\Debug\CriticalSection.exe
